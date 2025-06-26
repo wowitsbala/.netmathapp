@@ -1,4 +1,3 @@
-```xml
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <OutputType>Exe</OutputType>
@@ -10,4 +9,3 @@
     <ProjectReference Include="..\MyDotNetLib\MyDotNetLib.csproj" />
   </ItemGroup>
 </Project>
-```
