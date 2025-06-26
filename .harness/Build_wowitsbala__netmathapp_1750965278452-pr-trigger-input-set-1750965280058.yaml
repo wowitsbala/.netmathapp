@@ -1,0 +1,14 @@
+inputSet:
+  name: Build_wowitsbala__netmathapp_1750965278452-pr-trigger-input-set
+  identifier: Build_wowitsbala__netmathapp_1750965278452prtriggerinputset
+  orgIdentifier: default
+  projectIdentifier: Project002
+  pipeline:
+    identifier: Build_wowitsbala__netmathapp_1750965278452
+    properties:
+      ci:
+        codebase:
+          build:
+            type: PR
+            spec:
+              number: <+trigger.prNumber>
