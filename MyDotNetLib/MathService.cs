@@ -1,4 +1,3 @@
-```csharp
 namespace MyDotNetLib;
 
 public class MathService
@@ -8,4 +7,3 @@ public class MathService
         return a + b;
     }
 }
-```
