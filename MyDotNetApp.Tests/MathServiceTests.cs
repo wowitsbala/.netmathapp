@@ -1,4 +1,3 @@
-```csharp
 using MyDotNetLib;
 using Xunit;
 
@@ -36,4 +35,3 @@ public class MathServiceTests
         Assert.Equal(expected, result);
     }
 }
-```
